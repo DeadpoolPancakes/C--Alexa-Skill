@@ -1,0 +1,94 @@
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\ApplicationInsights.config
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\ReziAlexa.Tests.dll.config
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\ReziAlexa.Tests.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\ReziAlexa.Tests.pdb
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\Newtonsoft.Json.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\ReziAlexa.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Net.Http.Formatting.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Helpers.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Http.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Http.WebHost.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Mvc.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Razor.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.WebPages.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Optimization.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\ReziAlexa.pdb
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\ReziAlexa.dll.config
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\Newtonsoft.Json.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Net.Http.Formatting.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Helpers.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Http.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Http.WebHost.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Mvc.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Razor.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.WebPages.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\bin\Debug\System.Web.Optimization.xml
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\obj\Debug\Alexa-Api-Tests.csprojResolveAssemblyReference.cache
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\obj\Debug\ReziAlexa.Tests.dll
+F:\Jamie\Source\alex skill api template\ReziAlexa\ReziAlexa.Tests\obj\Debug\ReziAlexa.Tests.pdb
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\ApplicationInsights.config
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\csc.exe
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\csc.exe.config
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\csc.rsp
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\csi.exe
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\csi.rsp
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\vbc.exe
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\vbc.exe.config
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\vbc.rsp
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\ReziAlexa.Tests.dll.config
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\ReziAlexa.Tests.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\ReziAlexa.Tests.pdb
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\ReziAlexa.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Helpers.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Http.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Mvc.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Razor.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.WebPages.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Optimization.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\ReziAlexa.pdb
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\ReziAlexa.dll.config
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Helpers.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Http.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Mvc.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Razor.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.WebPages.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\bin\Debug\System.Web.Optimization.xml
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\obj\Debug\Alexa-Api-Tests.csprojResolveAssemblyReference.cache
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\obj\Debug\ReziAlexa.Tests.dll
+C:\Users\drnai\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Test\obj\Debug\ReziAlexa.Tests.pdb

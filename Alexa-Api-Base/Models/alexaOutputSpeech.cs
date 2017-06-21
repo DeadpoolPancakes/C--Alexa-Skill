@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+
+namespace ReziAlexa.Models
+{
+    public class alexaOutputSpeech
+    {
+        public string type { get; set; }
+        public string response { get; set; }
+    }
+}
