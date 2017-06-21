@@ -1,0 +1,31 @@
+{
+	"variables": [],
+	"info": {
+		"name": "alexa base",
+		"_postman_id": "2bd69b38-eefb-74fd-7d9f-cee5449cf528",
+		"description": "",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "alexa api base request",
+			"request": {
+				"url": "http://localhost:51773/api/alexa",
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"description": ""
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"session\": {\r\n    \"sessionId\": \"SessionId.34999f2c-44b5-4e0c-9226-1022c01ba58c\",\r\n    \"application\": {\r\n      \"applicationId\": \"\"\r\n    },\r\n    \"attributes\": {},\r\n    \"user\": {\r\n      \"userId\": \"\"\r\n    },\r\n    \"new\": true\r\n  },\r\n  \"request\": {\r\n    \"type\": \"IntentRequest\",\r\n    \"requestId\": \"EdwRequestId.ac70263d-7300-4c8c-859a-03f0b5330432\",\r\n    \"locale\": \"en-GB\",\r\n    \"timestamp\": \"2017-05-27T17:48:44Z\",\r\n    \"intent\": {\r\n      \"name\": \"TestIntent\",\r\n      \"slots\": {\r\n        \"Test\": {\r\n          \"name\": \"test\",\r\n          \"value\": \"hello world\"\r\n        }\r\n      }\r\n    }\r\n  },\r\n  \"version\": \"1.0\"\r\n}"
+				},
+				"description": ""
+			},
+			"response": []
+		}
+	]
+}
