@@ -5,10 +5,10 @@ using System.Net.Http;
 using System.Text;
 using System.Web.Http;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ReziAlexa;
-using ReziAlexa.Controllers;
+using AlexaBase;
+using AlexaBase.Controllers;
 
-namespace ReziAlexa.Tests.Controllers
+namespace AlexaBase.Tests.Controllers
 {
     [TestClass]
     public class ValuesControllerTest

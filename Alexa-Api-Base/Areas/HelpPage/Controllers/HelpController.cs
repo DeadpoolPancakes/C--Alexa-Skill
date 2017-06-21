@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using ReziAlexa.Areas.HelpPage.ModelDescriptions;
-using ReziAlexa.Areas.HelpPage.Models;
+using AlexaBase.Areas.HelpPage.ModelDescriptions;
+using AlexaBase.Areas.HelpPage.Models;
 
-namespace ReziAlexa.Areas.HelpPage.Controllers
+namespace AlexaBase.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

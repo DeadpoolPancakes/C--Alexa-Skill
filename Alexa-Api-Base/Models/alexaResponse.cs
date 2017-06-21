@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
-using ReziAlexa;
+using AlexaBase;
 
-namespace ReziAlexa.Models
+namespace AlexaBase.Models
 {
     public class AlexaResponse
     {

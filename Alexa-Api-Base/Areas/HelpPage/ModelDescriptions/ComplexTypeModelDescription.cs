@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace ReziAlexa.Areas.HelpPage.ModelDescriptions
+namespace AlexaBase.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

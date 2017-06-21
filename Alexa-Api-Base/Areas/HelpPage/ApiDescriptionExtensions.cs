@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace ReziAlexa.Areas.HelpPage
+namespace AlexaBase.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

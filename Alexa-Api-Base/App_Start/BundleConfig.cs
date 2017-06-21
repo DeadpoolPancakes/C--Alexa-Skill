@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace ReziAlexa
+namespace AlexaBase
 {
     public class BundleConfig
     {

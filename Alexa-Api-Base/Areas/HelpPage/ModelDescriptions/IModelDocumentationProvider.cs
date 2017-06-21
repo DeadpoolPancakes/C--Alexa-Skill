@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace ReziAlexa.Areas.HelpPage.ModelDescriptions
+namespace AlexaBase.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

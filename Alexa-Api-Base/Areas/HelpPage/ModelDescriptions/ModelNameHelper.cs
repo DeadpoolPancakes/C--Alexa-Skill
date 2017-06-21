@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace ReziAlexa.Areas.HelpPage.ModelDescriptions
+namespace AlexaBase.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

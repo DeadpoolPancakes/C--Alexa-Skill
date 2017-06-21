@@ -1,6 +1,6 @@
 using System;
 
-namespace ReziAlexa.Areas.HelpPage.ModelDescriptions
+namespace AlexaBase.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Describes a type model.

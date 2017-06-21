@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace ReziAlexa
+namespace AlexaBase
 {
     public static class WebApiConfig
     {

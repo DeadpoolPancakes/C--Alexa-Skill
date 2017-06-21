@@ -171,9 +171,6 @@ C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\ros
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\roslyn\vbc.rsp
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\roslyn\VBCSCompiler.exe
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\ReziAlexa.dll.config
-C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\ReziAlexa.dll
-C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\ReziAlexa.pdb
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\Antlr3.Runtime.dll
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\Microsoft.AI.Agent.Intercept.dll
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\Microsoft.AI.DependencyCollector.dll
@@ -215,5 +212,8 @@ C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\Mic
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\Microsoft.AI.Web.xml
 C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\obj\Debug\Alexa-Api-Base.csprojResolveAssemblyReference.cache
-C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\obj\Debug\ReziAlexa.dll
-C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\obj\Debug\ReziAlexa.pdb
+C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\AlexaBase.dll.config
+C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\AlexaBase.dll
+C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\bin\AlexaBase.pdb
+C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\obj\Debug\AlexaBase.dll
+C:\Users\jamie.naylor\Documents\GitHub\WebAPI-Alexa-Skill\Alexa-Api-Base\obj\Debug\AlexaBase.pdb

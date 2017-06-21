@@ -1,9 +1,9 @@
 ﻿using System.Web.Mvc;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ReziAlexa;
-using ReziAlexa.Controllers;
+using AlexaBase;
+using AlexaBase.Controllers;
 
-namespace ReziAlexa.Tests.Controllers
+namespace AlexaBase.Tests.Controllers
 {
     [TestClass]
     public class HomeControllerTest

@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using ReziAlexa.Areas.HelpPage.ModelDescriptions;
-using ReziAlexa.Areas.HelpPage.Models;
+using AlexaBase.Areas.HelpPage.ModelDescriptions;
+using AlexaBase.Areas.HelpPage.Models;
 
-namespace ReziAlexa.Areas.HelpPage
+namespace AlexaBase.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

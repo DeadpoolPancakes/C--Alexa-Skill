@@ -1,7 +1,7 @@
 using System.Web.Http;
 using System.Web.Mvc;
 
-namespace ReziAlexa.Areas.HelpPage
+namespace AlexaBase.Areas.HelpPage
 {
     public class HelpPageAreaRegistration : AreaRegistration
     {

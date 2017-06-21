@@ -4,9 +4,9 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using ReziAlexa.Models;
+using AlexaBase.Models;
 
-namespace ReziAlexa.Controllers
+namespace AlexaBase.Controllers
 {
     public class AlexaController : ApiController
     {
