@@ -186,7 +186,8 @@
     <Compile Include="Models\alexaOutputSpeech.cs" />
     <Compile Include="Models\alexaQuery.cs" />
     <Compile Include="Models\alexaQueryIntent.cs" />
-    <Compile Include="Models\alexaQueryIntentSlot.cs" />
+    <Compile Include="Models\AlexaQueryIntentSlot.cs" />
+    <Compile Include="Models\alexaQueryIntentSlotValue.cs" />
     <Compile Include="Models\alexaQueryRequest.cs" />
     <Compile Include="Models\alexaQuerySession.cs" />
     <Compile Include="Models\alexaQuerySessionApplication.cs" />

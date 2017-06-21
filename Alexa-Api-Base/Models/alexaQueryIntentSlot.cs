@@ -7,7 +7,10 @@ namespace AlexaBase.Models
 {
     public class alexaQueryIntentSlot
     {
-        public string name { get; set; }
-        public string value { get; set; }
+
+        //all slot types must be mapped out in here to get intellisense
+        public alexaQueryIntentSlotValue slotname { get; set; }
+        public alexaQueryIntentSlotValue slotnametwo { get; set; }
+
     }
 }

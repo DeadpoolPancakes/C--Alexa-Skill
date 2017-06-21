@@ -5,9 +5,9 @@ using System.Web;
 
 namespace AlexaBase.Models
 {
-    public class alexaQueryIntent
+    public class alexaQueryIntentSlotValue
     {
         public string name { get; set; }
-        public alexaQueryIntentSlot slots { get; set; }
+        public string value { get; set; }
     }
 }
