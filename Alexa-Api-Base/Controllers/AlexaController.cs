@@ -31,7 +31,7 @@ namespace AlexaBase.Controllers
         {
             data.response.outputSpeech = new alexaOutputSpeech()
             {
-                type = query.request.intent.name,
+                type = "PlainText",
                 response = query.request.intent.slots.slotname.value
             };
             data.response.shouldEndSession = true;
